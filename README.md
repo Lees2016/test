@@ -1,4 +1,8 @@
 # test my 
 # test 123
 # git test
-# creat a small branch
+<<<<<<< HEAD
+# creat a big branch
+=======
+# creat a BIG branch
+>>>>>>> feature1
